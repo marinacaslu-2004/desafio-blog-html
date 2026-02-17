@@ -1,6 +1,6 @@
 # Desafio de Projeto: Evolução Automotiva em HTML5 🏎️
 
-Este projeto foi desenvolvido como parte do desafio técnico do Módulo I da Trilha de HTML da [Nome da Instituição/DIO]. O objetivo foi criar uma página web estruturada utilizando exclusivamente tags semânticas e de formatação de texto.
+Este projeto foi desenvolvido como parte do desafio técnico do Módulo I da Trilha de HTML da Digital Innovation One. O objetivo foi criar uma página web estruturada utilizando exclusivamente tags semânticas e de formatação de texto.
 
 ## 🛠️ Tecnologias Utilizadas
 * **HTML5** puro (sem CSS ou JavaScript).
@@ -21,4 +21,4 @@ A partir da versão inicial, o projeto passou por uma refatoração para atender
 `<h1>` a `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`, `<font>`, `<del>`, `<abbr>`.
 
 ---
-*Desenvolvido por [Seu Nome]*
+*Desenvolvido por Marina Lucas*
